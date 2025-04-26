@@ -77,10 +77,10 @@ When using the program, refer to the author!<br>
 <br>
 ### Пример использования программы
 ### Example of using the program
-![image](./img1.jpg)
-![image](./img2.jpg)
-![image](./img3.jpg)
-![image](./img4.jpg)
+![image](./Img1.jpg)
+![image](./Img2.jpg)
+![image](./Img3.jpg)
+![image](./Img4.jpg)
 ##### activity_main.xml и activity_two.xml:
 ```xml
   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
